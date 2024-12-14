@@ -1,4 +1,4 @@
- Financial News and Stock Price Analysis
+# Financial News and Stock Price Analysis
 
 ## Overview
 

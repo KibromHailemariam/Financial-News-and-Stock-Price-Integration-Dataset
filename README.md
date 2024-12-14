@@ -1,4 +1,4 @@
-# Week 1: Financial News and Stock Price Analysis
+ Financial News and Stock Price Analysis
 
 ## Overview
 

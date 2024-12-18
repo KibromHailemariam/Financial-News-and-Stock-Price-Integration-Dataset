@@ -6,3 +6,5 @@ nltk
 scikit-learn
 notebook
 pytest
+TA-Lib 
+pynance
